@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\ANeto\Documents\University Files\Interactive App Code\App Projects\AndrewNetoStringTool\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-02-14T00:59:49.021</Modified>
+      <Modified>2024-02-14T02:11:25.823</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -40,15 +40,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ANeto\Documents\University Files\Interactive App Code\App Projects\AndrewNetoStringTool\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AndrewNetoStringTool.runtimeconfig.json">
       <PackagePath>AndrewNetoStringTool.runtimeconfig.json</PackagePath>
-      <Modified>2024-02-14T00:59:48.678</Modified>
+      <Modified>2024-02-14T02:09:14.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ANeto\Documents\University Files\Interactive App Code\App Projects\AndrewNetoStringTool\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AndrewNetoStringTool.dll">
       <PackagePath>AndrewNetoStringTool.dll</PackagePath>
-      <Modified>2024-02-14T00:59:47.844</Modified>
+      <Modified>2024-02-14T02:11:25.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ANeto\Documents\University Files\Interactive App Code\App Projects\AndrewNetoStringTool\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AndrewNetoStringTool.exe</PackagePath>
-      <Modified>2024-02-14T00:59:47.854</Modified>
+      <Modified>2024-02-14T02:11:25.565</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ANeto\Documents\University Files\Interactive App Code\App Projects\AndrewNetoStringTool\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ANeto\Documents\University Files\Interactive App Code\App Projects\AndrewNetoStringTool\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AndrewNetoStringTool.deps.json">
       <PackagePath>AndrewNetoStringTool.deps.json</PackagePath>
-      <Modified>2024-02-14T00:59:48.585</Modified>
+      <Modified>2024-02-14T02:09:14.573</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ANeto\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

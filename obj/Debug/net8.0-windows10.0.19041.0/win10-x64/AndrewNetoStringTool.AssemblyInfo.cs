@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AndrewNetoStringTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7e6bef80e3d443c2a8e200ed96031b9450f66515")]
 [assembly: System.Reflection.AssemblyProductAttribute("AndrewNetoStringTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AndrewNetoStringTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
